@@ -1,3 +1,5 @@
+PLEASE NOTE: THE MATLAB CODE CURRENTLY IN THIS REPO REQUIRES AN UPDATE WHICH WILL BE PROVIDED IN THE COMING WEEK. MODEL OUTPUT CSV FILES IN THE SUBFOLDER RDATA ARE, HOWEVER, FROM ANALYSIS PRESENTED IN THE PAPER, TO ALLOW REPRODUCING ALL FIGURES IN THE PUBLICATION.
+
 Data and code for Dietzel et al. 2021: The spatial footprint and patchiness of large-scale disturbances on coral reefs
 
 Corresponding author: Andreas Dietzel, andreas.dietzel@my.jcu.edu.au
