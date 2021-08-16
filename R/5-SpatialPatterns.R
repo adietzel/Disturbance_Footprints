@@ -73,7 +73,7 @@ for (i in 1:nrow(scenarios)) {
 }
 
 # Save file with simulated spatial patterns to use in Matlab
-# write.csv(df, "figures/SpatialPatterns.csv")
+write.csv(df, "Matlab/SpatialPatterns.csv")
 
 # Create example maps for each combo of magnitude x autocorrelation
 Maps.df <- df %>%
